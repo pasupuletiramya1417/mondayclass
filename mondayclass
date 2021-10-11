@@ -1,5 +1,1 @@
-#!/bin/bash
-echo $(ifconfig)
-echo $(date)
-echo $(pwd)
-echo $(whoami)
+this si sfile
