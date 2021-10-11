@@ -2,3 +2,4 @@
 echo $(ifconfig)
 echo $(date)
 echo $(pwd)
+echo $(whoami)
